@@ -8,7 +8,7 @@ import PricingSection from './components/PricingSection'
 import ServicesOne from './components/ServicesOne'
 import ServicesSection from './components/ServicesSection'
 import Testimonial from './components/Testimonial'
-import TrailSection from './components/TrialSection'
+import TrialSection from './components/TrialSection'
 
 
 
@@ -24,7 +24,7 @@ export default function App(){
         <Testimonial />
         <PricingSection />
         <FaqSection />
-        <TrailSection />
+        <TrialSection />
         <Footer />
       </>
   )

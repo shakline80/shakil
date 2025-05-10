@@ -136,7 +136,7 @@ export default function Footer(){
                             </a>
                         </li>
                         <li>
-                            <a href="#" className="text-gray-500 hover:text-gray-900 dark:hover:text-white dark:text-gray-400">
+                            <a href="#" className="text-gray-300 hover:text-gray-900 dark:hover:text-white dark:text-gray-400">
                                 <DribbleIcon />
                             </a>
                         </li>

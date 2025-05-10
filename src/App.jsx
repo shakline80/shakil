@@ -2,7 +2,7 @@ import './App.css'
 import CompaniesSection from './components/CompaniesSection'
 import FaqSection from './components/FaqSection'
 import Footer from './components/Footer'
-import FreeTial from './components/freeTrail'
+import FreeTrail from './components/FreeTrail'
 import Header from './components/Header'
 import HeroSection from './components/Hero'
 import PricingSection from './components/PricingSection'
@@ -24,7 +24,7 @@ export default function App(){
         <Testimonial />
         <PricingSection />
         <FaqSection />
-        <FreeTial />
+        <FreeTrail />
         <Footer />
       </>
   )
